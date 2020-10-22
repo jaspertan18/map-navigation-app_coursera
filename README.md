@@ -4,7 +4,7 @@
 2. Implemented different kind of search algorithms including Breadth-First-Search, Dijkstra and A* Search.
 
 ## Snapshots ##
-1. Red node markers indicates that specific node was visited during algorithm run time.
+1. Red node markers indicates that the specific node was visited during algorithm run time.
 2. It can be clearly seen that A* Search algorithm performs better than Breadth-First-Search algorithm.
 
 ### Breadth-First-Search ###
